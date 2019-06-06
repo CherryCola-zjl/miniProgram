@@ -1,0 +1,3 @@
+<view class='index-text'>你好，美丽的段小姐~~</view>
+<view class='index-text' style='top:150rpx;'>爱你哦~~</view>
+<image src='/images/girl.jpg' style='width:100%;height:100%;' mode='aspectFill'></image>

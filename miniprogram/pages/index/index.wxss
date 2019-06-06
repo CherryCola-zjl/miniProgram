@@ -1,0 +1,2 @@
+.index-text{position: fixed;text-align: center;top: 80rpx;text-shadow:5rpx 5rpx 0 rgba(100,96,96,0.25);width: 100%;}
+page{height: 100%;width: 100%;}

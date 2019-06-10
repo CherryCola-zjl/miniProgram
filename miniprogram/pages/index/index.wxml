@@ -1,3 +1,5 @@
-<view class='index-text'>你好，美丽的段小姐~~</view>
-<view class='index-text' style='top:150rpx;'>爱你哦~~</view>
-<image src='/images/girl.jpg' style='width:100%;height:100%;' mode='aspectFill'></image>
+<view class='padding-box'>
+  <view class='title'>2019计划</view>
+  <view wx:for='{{target}}' wx:key="{{index}}">{{index+1}}. {{item.name}}</view>
+</view>
+<image src='/images/girl.jpg' class='backimg' mode='aspectFill'></image>
